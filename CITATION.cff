@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this code repository."
+title: "Analysis code for: Grip strength and falls in 114,129 middle-aged and older women across four national cohorts"
+abstract: >-
+  Analysis code for a four-cohort study of grip strength and falls in middle-aged and older
+  women (CHARLS, ELSA, HRS and SHARE) with design-based survey correction, together with a
+  two-sample Mendelian randomisation analysis contrasting an overlapping UK Biobank outcome
+  with the independent FinnGen release 12 FALLS endpoint. Includes the quality-check script
+  that re-derives every number reported in the manuscript.
+authors:
+  - family-names: Huang
+    given-names: Zhanpeng
+    affiliation: "West China Longquan Hospital, Sichuan University / The First People's Hospital of Longquanyi District, Chengdu, China"
+type: software
+repository-code: "https://github.com/X-GWAS/grip-strength-falls-analysis-code"
+url: "https://github.com/X-GWAS/grip-strength-falls-analysis-code"
+keywords:
+  - grip strength
+  - falls
+  - cohort study
+  - Mendelian randomisation
+  - sample overlap
+  - CHARLS
+  - ELSA
+  - HRS
+  - SHARE
+version: 1.0.1
+date-released: "2026-09-17"
